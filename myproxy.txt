@@ -1,5 +1,4 @@
 payload:
-  - 'supjav.com'
-  - 'pilor.net'
-  - 'img.supjav'
-  - 'onejav.com'
+  - '+.supjav.com'
+  - '+.pilor.net'
+  - '+.onejav.com'
