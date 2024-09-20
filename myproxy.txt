@@ -2,3 +2,4 @@ payload:
   - '+.supjav.com'
   - '+.pilor.net'
   - '+.onejav.com'
+  - '+.jav777.com'
