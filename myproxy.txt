@@ -4,3 +4,4 @@ payload:
   - '+.onejav.com'
   - '+.jav777.xyz'
   - 'boutiquefire.xyz'
+  - 'missav123.com'
