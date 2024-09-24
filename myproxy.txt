@@ -5,3 +5,4 @@ payload:
   - '+.jav777.xyz'
   - 'boutiquefire.xyz'
   - 'missav123.com'
+  - 'sehuatang.net'
