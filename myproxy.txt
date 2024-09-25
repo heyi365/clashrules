@@ -9,3 +9,4 @@ payload:
   - '+.v2rayssr.com'
   - '+.pornlulu.com'
   - '+.u9a9.com'
+  - '+.filecove.com'
