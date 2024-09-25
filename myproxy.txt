@@ -7,3 +7,4 @@ payload:
   - '+.missav123.com'
   - '+.sehuatang.net'
   - '+.v2rayssr.com'
+  - '+.pornlulu.com'
