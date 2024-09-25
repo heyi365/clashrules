@@ -8,3 +8,4 @@ payload:
   - '+.sehuatang.net'
   - '+.v2rayssr.com'
   - '+.pornlulu.com'
+  - '+.u9a9.com'
