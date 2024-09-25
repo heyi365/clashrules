@@ -6,3 +6,4 @@ payload:
   - 'boutiquefire.xyz'
   - 'missav123.com'
   - 'sehuatang.net'
+  - 'v2rayssr.com'
