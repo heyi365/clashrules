@@ -11,3 +11,4 @@ payload:
   - '+.u9a9.com'
   - '+.thotsbay.tv'
   - '+.camhdxx.com'
+  - '+.adtng.com'
