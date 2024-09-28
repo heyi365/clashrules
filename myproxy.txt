@@ -12,3 +12,4 @@ payload:
   - '+.thotsbay.tv'
   - '+.camhdxx.com'
   - '+.jav777.cc'
+  - '+.520cc.cc'
