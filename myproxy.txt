@@ -17,3 +17,7 @@ payload:
   - '+.whichav.com'
   - '+.91p65.com'
   - '+.javdb.com'
+  - '+.sunnypt.top'
+  - '+.jmsuper.com'
+  - '+.zh.jego.pro'
+  - '+.laowang.vip'
