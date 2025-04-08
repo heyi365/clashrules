@@ -21,3 +21,4 @@ payload:
   - '+.jmsuper.com'
   - '+.zh.jego.pro'
   - '+.laowang.vip'
+  - '+.godownloader.com'
