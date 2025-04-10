@@ -22,3 +22,5 @@ payload:
   - '+.zh.jego.pro'
   - '+.laowang.vip'
   - '+.godownloader.com'
+  - '+.torrentleech.com'
+
