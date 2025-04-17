@@ -1,5 +1,5 @@
 payload:
-  - '+.ecton.choerodon.io'
+  - '+.choerodon.io'
   - '+.m-team.cc'
   - '+.pub1.emby.wtf'
   - '+.clash.razord.top'
