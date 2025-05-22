@@ -23,4 +23,5 @@ payload:
   - '+.laowang.vip'
   - '+.godownloader.com'
   - '+.torrentleech.com'
+  - '+.fsm.name'
 
