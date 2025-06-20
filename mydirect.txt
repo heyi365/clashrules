@@ -6,5 +6,3 @@ payload:
   - '+.yacd.haishan.me'
   - '+.follow.is'
   - '+.m-team.io'
-  - '+.services.googleapis.cn'
-  - '+.googleapis.cn'
