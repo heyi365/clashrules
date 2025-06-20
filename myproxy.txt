@@ -24,4 +24,6 @@ payload:
   - '+.godownloader.com'
   - '+.torrentleech.com'
   - '+.fsm.name'
+  - '+.services.googleapis.cn'
+  - '+.googleapis.cn'
 
