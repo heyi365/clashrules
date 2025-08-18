@@ -26,4 +26,5 @@ payload:
   - '+.fsm.name'
   - '+.services.googleapis.cn'
   - '+.googleapis.cn'
+  - '+.torrentleech.org'
 
