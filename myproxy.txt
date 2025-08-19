@@ -27,4 +27,5 @@ payload:
   - '+.services.googleapis.cn'
   - '+.googleapis.cn'
   - '+.torrentleech.org'
+  - '+.movie-pilot.org'
 
