@@ -6,3 +6,5 @@ payload:
   - '+.yacd.haishan.me'
   - '+.follow.is'
   - '+.m-team.io'
+  - '+.hhanclub.top'
+
