@@ -28,4 +28,4 @@ payload:
   - '+.googleapis.cn'
   - '+.torrentleech.org'
   - '+.movie-pilot.org'
-
+  - '+.xsijishe.net'
