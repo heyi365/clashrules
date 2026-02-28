@@ -7,3 +7,4 @@ payload:
   - '+.follow.is'
   - '+.m-team.io'
   - '+.open.cd'
+  - '+.totheglory.im'
