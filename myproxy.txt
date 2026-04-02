@@ -30,3 +30,4 @@ payload:
   - '+.movie-pilot.org'
   - '+.xsijishe.net'
   - '+.ssjx666.top'
+  - '+.hihbt.org'
