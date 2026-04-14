@@ -32,5 +32,7 @@ payload:
   - '+.ssjx666.top'
   - '+.hihbt.org'
   - '+.qobuz.com'
+  - '+.music.amazon.com'
+
 
 
