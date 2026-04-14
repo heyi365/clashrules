@@ -31,4 +31,6 @@ payload:
   - '+.xsijishe.net'
   - '+.ssjx666.top'
   - '+.hihbt.org'
+  - '+.qobuz.com'
+
 
