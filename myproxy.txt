@@ -31,7 +31,7 @@ payload:
   - '+.xsijishe.net'
   - '+.ssjx666.top'
   - '+.hihbt.org'
-  - '+.music.amazon.com'
+  - '+.amazon.com'
   - '+.qobuz.com'
 
 
