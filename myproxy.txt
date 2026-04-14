@@ -23,7 +23,6 @@ payload:
   - '+.laowang.vip'
   - '+.godownloader.com'
   - '+.torrentleech.com'
-  - '+.fsm.name'
   - '+.services.googleapis.cn'
   - '+.googleapis.cn'
   - '+.torrentleech.org'
@@ -31,8 +30,8 @@ payload:
   - '+.xsijishe.net'
   - '+.ssjx666.top'
   - '+.hihbt.org'
-  - '+.amazon.com'
   - '+.qobuz.com'
+  - '+.music.amazon.com'
 
 
 
