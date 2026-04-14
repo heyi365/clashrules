@@ -11,4 +11,7 @@ payload:
   - '+.lgf.audio.tidal.com'
   - '+.akamaized.net'
   - '+.cloudfront.net'
+  - '+.sp-ad-fa.audio.tidal.com'
+
+
 
