@@ -32,6 +32,9 @@ payload:
   - '+.hihbt.org'
   - '+.qobuz.com'
   - '+.music.amazon.com'
+  - '+.amzn.afkarxyz.qzz.io'
+
+
 
 
 
