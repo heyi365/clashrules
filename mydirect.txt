@@ -8,10 +8,9 @@ payload:
   - '+.m-team.io'
   - '+.open.cd'
   - '+.totheglory.im'
-  - '+.lgf.audio.tidal.com'
+  - '+.tidal.com'
   - '+.akamaized.net'
   - '+.cloudfront.net'
-  - '+.sp-ad-fa.audio.tidal.com'
 
 
 
