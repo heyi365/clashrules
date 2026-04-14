@@ -8,9 +8,6 @@ payload:
   - '+.m-team.io'
   - '+.open.cd'
   - '+.totheglory.im'
-  - '+.tidal.com'
-  - '+.akamaized.net'
-  - '+.cloudfront.net'
 
 
 
